@@ -1,0 +1,3 @@
+add:secrettoADD:aabb,super,ddd
+sub:ItisaSecret:super
+mult:DontTellEveryOne:super,ddd,aabb
